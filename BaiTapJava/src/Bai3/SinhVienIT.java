@@ -9,7 +9,7 @@ package Bai3;
  *
  * @author Admin
  */
-public class SinhVienIT {
+public class SinhVienIT extends SinhVienPoly{
     private double diemJava;
     private double diemHtml;
     private double diemCss;
