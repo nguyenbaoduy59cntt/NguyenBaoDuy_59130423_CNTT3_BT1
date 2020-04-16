@@ -12,9 +12,7 @@ public class LopHoc{
     private QLDS qldsHS;
     private QLDS qldsGVGD;
     private GiaoVien giaoVienCN;
-    
-    ArrayList<HocSinh> hocSinh = new ArrayList<>();
-    ArrayList<GiaoVien> giaoVienGD = new ArrayList<>();
+   
     
     
     public int themHocSinh(HocSinh hs){

@@ -18,15 +18,15 @@ public class ActivityMain {
     GiaoVien gv1 = new GiaoVien("Duong Loi", "Chinh tri", "Tran Thi Tan",30 , "Nha Trang", "1224667");
     GiaoVien gv2 = new GiaoVien("Mac 2", "Chinh tri", "Tran Van Hanh",35 , "Nha Trang", "1124667");
     
-    // Them hs & gv
+//    // Them hs & gv
     LopHoc lop = new LopHoc();
     lop.themHocSinh(hs1);
     lop.themHocSinh(hs2);
     lop.themGVGD(gv1);
     lop.themGVGD(gv2);
     //In
-    lop.inDSHS();
-    lop.inDSGVGD();
+//    lop.inDSHS();
+//    lop.inDSGVGD();
     }
 }
 
