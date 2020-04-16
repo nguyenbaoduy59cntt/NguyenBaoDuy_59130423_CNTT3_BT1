@@ -13,8 +13,6 @@ public class LopHoc{
     private QLDS qldsGVGD;
     private GiaoVien giaoVienCN;
    
-    
-    
     public int themHocSinh(HocSinh hs){
         qldsHS.them(hs);
         return 1;
