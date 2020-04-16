@@ -9,10 +9,10 @@
  * @author Admin
  */
 public abstract class CaNhan {
-    private String hoTen;
-    private int tuoi;
-    private String diaChi;
-    private String sdt;
+    public String hoTen;
+    public  int tuoi;
+    public  String diaChi;
+    public  String sdt;
     
     public CaNhan(String hoTen, int tuoi, String diaChi, String sdt){
         this.hoTen=hoTen;

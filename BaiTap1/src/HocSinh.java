@@ -9,8 +9,8 @@
  * @author Admin
  */
 public class HocSinh extends CaNhan{
-    private String lop;
-    private String nangKhieu;
+    public String lop;
+    public String nangKhieu;
     
     public HocSinh(String lop, String nangKhieu, String hoTen, int tuoi, String diaChi, String sdt){
         super(hoTen, tuoi, diaChi, sdt);
